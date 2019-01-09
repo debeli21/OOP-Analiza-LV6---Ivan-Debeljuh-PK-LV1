@@ -1,0 +1,8 @@
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\bin\Debug\LV-6.exe.config
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\bin\Debug\LV-6.exe
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\bin\Debug\LV-6.pdb
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\obj\Debug\LV_6.Form1.resources
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\obj\Debug\LV_6.Properties.Resources.resources
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\obj\Debug\LV-6.csproj.GenerateResource.Cache
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\obj\Debug\LV-6.exe
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\LV-6\obj\Debug\LV-6.pdb

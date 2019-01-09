@@ -1,0 +1,9 @@
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\bin\Debug\Zad2.exe.config
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\bin\Debug\Zad2.exe
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\bin\Debug\Zad2.pdb
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\obj\Debug\Zad2.Form1.resources
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\obj\Debug\Zad2.Properties.Resources.resources
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\obj\Debug\Zad2.csproj.GenerateResource.Cache
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\obj\Debug\Zad2.exe
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\obj\Debug\Zad2.pdb
+D:\STVARI\AaaFAX\3. SEMESTAR\OOP\Programi\Analize labosa\LV-6\Zad2\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
